@@ -11,6 +11,8 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.JFrame;
 
+
+//Updated code with mouse input
 public class ScanLine extends JFrame{
     
     private int prevX;
