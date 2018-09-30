@@ -12,7 +12,7 @@ import java.util.logging.Logger;
 import javax.swing.JFrame;
 
 
-//Updated code with mouse input
+//Updated code with mouse iterface
 public class ScanLine extends JFrame{
     
     private int prevX;
