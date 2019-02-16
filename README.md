@@ -1,3 +1,5 @@
 # ScanLine
 Color filling algorithm in computer graphics
-![Output sample](https://github.com/ajasmin/camstudio-mousedown-highlight/raw/master/android_vid_test.gif)
+
+
+![Output sample](https://github.com/shashankchandak/ScanLine/blob/master/scanline.mp4)
